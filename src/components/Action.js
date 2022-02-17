@@ -26,7 +26,6 @@ const StyledAction = styled.div`
     &:active,
     &.active {
       opacity: 1;
-      transform: scale(1.1);
     }
   }
 

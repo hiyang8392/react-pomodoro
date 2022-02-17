@@ -7,7 +7,7 @@ import Control from "./Control";
 import Action from "./Action";
 
 const StyledPomodoro = styled(Card)`
-  padding: 50px;
+  padding: 50px 10px;
   margin: 10vh auto;
   display: flex;
   flex-direction: column;
@@ -36,6 +36,10 @@ const StyledPomodoro = styled(Card)`
       flex-direction: column;
     }
   }
+
+  @media (max-width: 500px) {
+      width: 95vw;
+    }
 `;
 
 const Pomodoro = () => {
