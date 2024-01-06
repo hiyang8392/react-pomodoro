@@ -2,7 +2,7 @@
 
 ### demo
 
-<a target="_blank" href="https://pomodoro.yangisgood.com">https://pomodoro.hihiyang.com</a>
+<a target="_blank" href="https://pomodoro.yangisgood.com">https://pomodoro.yangisgood.com</a>
 
 ![demo image](https://imgur.com/qkwxkWe.jpg)
 
